@@ -21,5 +21,11 @@ public class Main{
         // System.out.println(auto.modelo);         
         // System.out.println(auto.velocidadMaxima);
         //variable marca is never read
+
+        //Punto 3
+        //Persona p = new Persona();
+        //System.out.println(p.nombre);
+        Persona p = new Persona();
+        System.out.println(p.getNombre());
     }
 }
